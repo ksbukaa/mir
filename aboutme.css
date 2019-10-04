@@ -1,0 +1,13 @@
+strong {
+	color: purple;
+}
+h1, h2 {
+ color: #FF8500;
+}
+h1 {
+	font-size: 80pt; 
+}
+body {
+	font-family: "Verdana", sans-serif;
+	background-color: #EEEEEC;
+}
